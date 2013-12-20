@@ -9,22 +9,14 @@
     android:paddingRight="10dp"
     android:paddingBottom="5dp"
     >
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> 60f2ef5... Active display [squashed] (2/2)
     <TextView android:id="@android:id/title"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium" />
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> 60f2ef5... Active display [squashed] (2/2)
     <TextView android:id="@android:id/summary"
             android:layout_alignParentLeft="true"
             android:layout_width="fill_parent"
@@ -33,7 +25,6 @@
             android:textAppearance="?android:attr/textAppearanceSmall"
             android:textColor="?android:attr/textColorSecondary" />
 
-<<<<<<< HEAD
     <RelativeLayout
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -68,36 +59,4 @@
                     android:layout_height="wrap_content"
                     android:layout_toLeftOf="@id/seekBarPrefUnitsLeft" />
     </RelativeLayout>
-=======
-    <TextView android:id="@+id/seekBarPrefUnitsRight"
-            android:layout_alignParentRight="true"
-            android:layout_below="@android:id/title"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
-    
-    <TextView android:id="@+id/seekBarPrefValue"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_toLeftOf="@id/seekBarPrefUnitsRight"
-            android:layout_below="@android:id/title"
-            android:gravity="right"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
-
-    <TextView android:id="@+id/seekBarPrefUnitsLeft"
-            android:layout_below="@android:id/title"
-            android:layout_toLeftOf="@id/seekBarPrefValue"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
-    
-    <LinearLayout android:id="@+id/seekBarPrefBarContainer"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentBottom="true"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@android:id/summary">
-    </LinearLayout>
-    
->>>>>>> 60f2ef5... Active display [squashed] (2/2)
 </RelativeLayout>
