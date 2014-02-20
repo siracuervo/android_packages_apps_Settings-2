@@ -67,6 +67,11 @@
             android:persistent="false"
             android:dependency="see_through" />
 
+        <PreferenceScreen
+            android:title="@string/lockscreen_notifications"
+            android:fragment="com.android.settings.axxion.LockscreenNotifications"
+            android:summary="@string/lockscreen_notifications_summary" />
+
     </PreferenceCategory>
 
     <PreferenceCategory
