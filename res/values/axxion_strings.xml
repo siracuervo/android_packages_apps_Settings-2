@@ -48,5 +48,8 @@
     
     <!-- TRDS tile -->
     <string name="title_tile_theme">Theme switcher</string>
+    
+    <!-- Notifications light with screen on -->
+    <string name="notification_light_screen_on_title">Show when screen is on</string>
 
 </resources>
