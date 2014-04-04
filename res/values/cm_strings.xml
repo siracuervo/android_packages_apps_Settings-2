@@ -484,7 +484,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="end_time_title">End</string>
 
     <!-- About phone screen,  setting option name -->
-    <string name="mod_version">CyanogenMod version</string>
+    <string name="mod_version">AxxionKat version</string>
     <string name="mod_version_default">Unknown</string>
     <!-- About phone screen, build date of ROM -->
     <string name="build_date">Build date</string>
@@ -521,7 +521,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
 
     <!-- INTERFACE Settings -->
     <!-- Settings main menu category heading. Interface (Launcher, Themes, System). [CHAR LIMIT=40] -->
-    <string name="header_category_interface">Personalization</string>
+    <string name="header_category_interface">Interface</string>
 
     <!-- Themes settings -->
     <string name="themes_settings_title">Themes</string>
@@ -698,7 +698,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="device_hostname">Device hostname</string>
 
     <!-- System Interface settings  -->
-    <string name="system_settings_title">Interface</string>
+    <string name="system_settings_title">Personalization</string>
     <string name="system_interface_title">System interface</string>
 
     <!-- Notification Drawer  -->
