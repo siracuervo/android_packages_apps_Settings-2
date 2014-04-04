@@ -21,8 +21,8 @@ import android.content.res.Configuration;
 import android.widget.CompoundButton;
 import android.widget.Switch;
 
-import com.android.internal.util.crdroid.TRDSConstant;
-import com.android.internal.util.crdroid.TRDSActions;
+import com.android.internal.util.axxion.TRDSConstant;
+import com.android.internal.util.axxion.TRDSActions;
 
 import com.android.settings.R;
 
