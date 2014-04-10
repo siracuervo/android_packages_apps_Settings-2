@@ -389,7 +389,7 @@ podrás crear una nueva línea con el fin de insertar puntos de control adiciona
     <string name="preview_version_title">Versión</string>
     <string name="preview_country_title">País</string>
     <string name="preview_carrier_title">Operadora móvil</string>
-    <string name="header_category_interface">Personalizacion</string>
+    <string name="header_category_interface">Interfaz</string>
     <string name="themes_settings_title">Temas</string>
     <string name="performance_settings_title">Rendimiento</string>
     <string name="performance_settings_warning_title">Procede con precaución</string>
