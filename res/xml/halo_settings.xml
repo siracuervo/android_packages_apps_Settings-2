@@ -52,6 +52,7 @@ limitations under the License.
         android:key="halo_ninja"
         android:title="@string/halo_ninja_title"
         android:summary="@string/halo_ninja_summary"
+	android:dependency="halo_enabled" 
         android:defaultValue="false" />
 
     <ListPreference
