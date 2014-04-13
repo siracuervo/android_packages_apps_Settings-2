@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.axxion;
+package com.android.settings.crdroid;
 
 import android.app.ActivityManager;
 import android.app.INotificationManager;
